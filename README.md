@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Rambabu patidar(apnacollege).
+Author - Rambabu patidar(apnacollege-demo).
  
